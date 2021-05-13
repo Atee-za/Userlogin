@@ -56,8 +56,8 @@ Built with:
     Python
     SQLite
     
-Head
+Testing
 
-    The following users were added already in the data base for testing purposes
+    The following user was added in the database for testing purposes
     username: Athenkosi
     password: zono12           
