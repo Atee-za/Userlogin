@@ -29,8 +29,8 @@ How it works:
 How to run:
 
     To run the Application simply open Command Line Interface (CMD)/Console/Terminal
-    and navigate to the root of the application, then type the command "python login.py"
-    the application will pop up.
+    and navigate to the root of the application, then type the command "python login.py" 
+    or "login.py" the application will pop up.
     
     Once loaded the menu will pop up
     
@@ -59,5 +59,5 @@ Built with:
 Testing
 
     The following user was added in the database for testing purposes
-    username: Athenkosi
-    password: zono12           
+    username: Athenkosi                 username: Luke
+    password: zono12                    password: george        
